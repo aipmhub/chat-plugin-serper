@@ -2,7 +2,7 @@
   "author": "AiPMHub",
   "homepage": "https://github.com/aipmhub/chat-plugin-serper",
   "identifier": "serper",
-  "manifest": "https://raw.githubusercontent.com/aipmhub/chat-plugin-serper/main/public/manifest.json",
+  "manifest": "https://chat-plugin-apistore.theforage.cn/serper/manifest.json",
   "meta": {
     "avatar": "🔍",
     "description": "Google search engine via Serper.dev free API (2500x🆓/month)",
