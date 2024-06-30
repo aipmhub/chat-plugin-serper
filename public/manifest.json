@@ -1,12 +1,13 @@
 {
   "api": {
     "type": "openapi",
-    "url": "https://chat-plugin-apistore.theforage.cn/serper/openapi.json",
+    "url": "https://raw.githubusercontent.com/aipmhub/chat-plugin-serper/main/public/openapi.json",
     "is_user_authenticated": false
   },
   "auth": {
     "type": "none"
   },
+  "author": "5LOI",
   "contact_email": "nextprofessionalpower@gmail.com",
   "description_for_human": "Google search engine via Serper.dev",
   "description_for_model": "Plugin for performing web searches using the Serper.dev API to access Google search results.",
